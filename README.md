@@ -21,5 +21,6 @@ The single-page dashboard is user-friendly with several helpful filters on the l
 - The resorts that are open all year round
 - The best resorts for beginners, intermediate and expert skiers
 - The resorts with the highest peak and lowest peak
+
 ![](report.jpg)
 The interactive dashboard can be accessed on the Power BI service via this [link]().
