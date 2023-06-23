@@ -14,7 +14,7 @@ First, it was observed that the data needed to be cleaned. Characters like quest
 ## Solving the problem
 One major challenge for skiers would be the difficulty of finding the best ski resort based on the facilities available such as Longest runs, Highest Points, Lowest Points, Beginner Slopes, Intermediate Slopes, etc. To solve this problem, a custom column was created using the IF function to create bins for these continuous variables. This would help create important filters necessary to guide skiers to their next skiing destination.
 ## Visualization
-The single-page dashboard is user-friendly with several helpful filters on the left-hand side that would guide tourists to their most preferred destination. Summarized lists of the most interesting features of the ski resorts are on the right-hand side. Skiers have a quick view of the following:
+The single-page dashboard is user-friendly with several helpful filters on the left-hand side that would guide tourists to their most preferred destination. Users can filter the resorts based on the various types and numbers of facilities available such as lift capacity, summer skiing, child-friendly and, night skiing facilities, etc. Summarized lists of some of the most interesting features of the resorts in the catalog are on the right-hand side. Skiers have a quick view of the following:
 - The free-entry resorts
 - The cheapest resort
 - The priciest resort
