@@ -6,7 +6,7 @@ This is a Power BI project on the Maven Slopes Challenge organized by Maven Anal
 The following Power BI skills were incorporated into this project:
 - Data transformation.
 - Knowledge of DAX functions.
-- Data Visualization.
+- Data visualization.
 ## Data sourcing
 The data set provided by Maven Analytics contained data on 499 ski resorts in 5 continents and 38 countries of the world (resorts.csv). It also included complementary data on the snow cover around the world during each month of 2022 (snow.csv) and the data dictionary. Here's the link to the [data set](https://maven-datasets.s3.amazonaws.com/Ski+Resorts/Ski+Resorts.zip)
 ## Data Transformation
@@ -23,4 +23,4 @@ The single-page dashboard is user-friendly with several helpful filters on the l
 - The resorts with the highest peak and lowest peak
 
 ![](report.jpg)
-The interactive dashboard can be accessed on the Power BI service via this [link]().
+The interactive dashboard can be accessed on the Power BI service via this [link](https://app.powerbi.com/view?r=eyJrIjoiMzNlNGIyYmItOTQ5Yi00ZmJmLWIyODItOGM2ZWE2NGI5MmUyIiwidCI6ImQ4NzlkOWE0LTZmODEtNDU4NS1iYWJjLWM4OGZjMzBmZTc3YiJ9).
